@@ -17,7 +17,6 @@
        <h1>Welcome to my Music Quiz</h1>
 
         <h4>Try your hand at guessing the songs </h4>
-        <iframe src="https://open.spotify.com/embed?uri=spotify:user:tdthompson899:playlist:2VpMOVLzcfNgrl5aLbaa3p" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
        <!-- Material JavaScripts -->
        <script src="/js/materialize.js"></script>
