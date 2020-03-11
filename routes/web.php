@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'QuizController@index');
+Route::get('/playlist', 'SpotifyController@playlist');
+// controller with show page to show the questions
